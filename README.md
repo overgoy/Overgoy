@@ -28,11 +28,9 @@ I am an **AI/ML Engineer** with over 5 years of experience designing, building, 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overgoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overgoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Overgoy&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)
 
 ---
 
