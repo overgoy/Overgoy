@@ -30,10 +30,9 @@ I am an **AI/ML Engineer** with over 5 years of experience designing, building, 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Overgoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Anastasiia's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overgoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" width="48%" />
-</div>
+![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overgoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overgoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
