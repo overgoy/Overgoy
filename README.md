@@ -26,11 +26,6 @@ I am an **AI/ML Engineer** with over 5 years of experience designing, building, 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
----
-
-### 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Overgoy&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9)
 
 ---
 
