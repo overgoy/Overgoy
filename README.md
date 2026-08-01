@@ -14,8 +14,13 @@ working enterprise products.
 
 ## 🚀 Flagship: Narau
 
-**Narau** (open source, coming soon) is a self-learning agent that grows its own skills through
-a **governed pipeline**: every learned change passes an adversarial review, an objective eval gate
+**Narau** (open source, coming soon) is a **long-lived, self-learning agent: the longer it lives,
+the smarter it gets**. It learns from your corrections, crystallizes successful work into new
+skills, and grows into a personal AI twin — your assistant that writes and acts in your voice.
+Domain abilities ship as **packs** (content avatar, research digest, code assistant), so one core
+serves many jobs.
+
+Every learned change passes a **governed pipeline**: adversarial review, an objective eval gate
 and human approval before it is adopted — with a signed, tamper-evident history of every decision.
 
 > Self-improving agents are a supply-chain risk: every skill they install is somebody else's code.
@@ -69,7 +74,7 @@ and human approval before it is adopted — with a signed, tamper-evident histor
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=overgoy&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=overgoy&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=overgoy&theme=tokyonight&hide_border=true)
 
 </div>
