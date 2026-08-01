@@ -21,4 +21,4 @@ PyTorch, HuggingFace, LangChain, Claude API, vector search
 
 ## Reach me
 
-LinkedIn: coming soon
+LinkedIn: [anastasiia-goi](https://www.linkedin.com/in/anastasiia-goi)
