@@ -1,24 +1,56 @@
-# Hi, I'm Anastasiia 👋
+# Hi there 👋 I'm Anastasiia
 
-AI/ML engineer, 5+ years designing, building and operating production-grade AI systems.
-My focus: Generative AI, LLM applications, autonomous agents and RAG architectures.
-I like taking AI research and turning it into working enterprise products.
+I am an **AI/ML Engineer** with over 5 years of experience designing, building, and operating production-grade AI systems. My current focus is on Generative AI, LLMs, AI Agents, and RAG architectures. I love solving complex problems and bringing AI research into real-world enterprise products.
 
-## What I'm building
+### 🚀 What I'm building
 
 **Narau** (open source, coming soon): a self-learning agent that grows its own skills
 through a governed pipeline. Every learned change passes an adversarial review, an
 eval gate and human approval before adoption. Self-improvement you can trust.
 
-## Stack
+### 🛠️ Tech Stack & Tools
 
-**GenAI / ML:** LLM apps and agents, RAG, prompt engineering, evals,
-PyTorch, HuggingFace, LangChain, Claude API, vector search
+**AI & Machine Learning:**
 
-**Languages:** Python, SQL, Go, Scala
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20BERT%20%7C%20vLLM-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-vector%20search%20%7C%20evals-6E56CF?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Data / Cloud / DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis, Kafka, CI/CD
+**Languages:**
 
-## Reach me
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-LinkedIn: [anastasiia-goi](https://www.linkedin.com/in/anastasiia-goi)
+**Data, Cloud & DevOps:**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=overgoy&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-goi)
