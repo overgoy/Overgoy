@@ -30,6 +30,13 @@ and human approval before it is adopted — with a signed, tamper-evident histor
 ![Security](https://img.shields.io/badge/security-gate%20%E2%86%92%20eval%20%E2%86%92%20human-D14343?style=for-the-badge)
 ![Evals](https://img.shields.io/badge/evals-ratchet%2C%20never%20regress-0A9EDC?style=for-the-badge)
 
+## 🤝 Open source
+
+Contributor to the agent tooling I work with day to day:
+
+[![basic-memory](https://img.shields.io/badge/basic--memory-contributor-6E56CF?style=for-the-badge)](https://github.com/basicmachines-co/basic-memory)
+[![GEPA](https://img.shields.io/badge/GEPA-contributor-0A9EDC?style=for-the-badge)](https://github.com/gepa-ai/gepa)
+
 ## 🛠️ Tech Stack
 
 **GenAI & Agents:**
