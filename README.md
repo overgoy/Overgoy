@@ -77,11 +77,3 @@ Contributor to the agent tooling I work with day to day:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=overgoy&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=overgoy&theme=tokyonight&hide_border=true)
-
-</div>
