@@ -1,79 +1,25 @@
-<div align="center">
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/anastasiia-goi">linkedin</a>
+  </samp>
+</p>
 
-# Hi there 👋 I'm Anastasiia
+Hi, I'm Anastasiia! 👋
 
-**AI Engineer · I build self-improving agents you can trust**
+I'm an AI engineer. I build self-improving agents you can trust. For the last 5+ years I have been turning AI research into products that run in production: LLM applications, autonomous agents and RAG systems.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-goi)
+## What I'm building
 
-</div>
+**Narau** (open source, coming soon) is a long-lived agent that gets better the longer it runs. It learns from your corrections and turns work that succeeded into new skills. Every change it learns goes through adversarial review, an eval gate and your approval before it is adopted, and each decision is kept in a signed history.
 
-I design, build and operate production-grade AI systems: Generative AI, LLM applications,
-autonomous agents and RAG architectures. 5+ years of taking AI research and turning it into
-working enterprise products.
+Its abilities ship as packs: a content avatar that writes in your voice, a research digest that keeps you up to date and is checked against its sources, and a code assistant that shows what else in a codebase a change will touch.
 
-## 🚀 Flagship: Narau
+## Where my work landed
 
-**Narau** (open source, coming soon) is a **long-lived, self-learning agent: the longer it lives,
-the smarter it gets**. It learns from your corrections, crystallizes successful work into new
-skills, and grows into a personal AI twin — your assistant that writes and acts in your voice.
-Domain abilities ship as **packs** (content avatar, research digest, code assistant), so one core
-serves many jobs.
+A fix of mine is in [basic-memory](https://github.com/basicmachines-co/basic-memory) ([b712db8](https://github.com/basicmachines-co/basic-memory/commit/b712db8)): its cleanup no longer crashes on Windows when a stale log is deleted halfway through.
 
-Every learned change passes a **governed pipeline**: adversarial review, an objective eval gate
-and human approval before it is adopted — with a signed, tamper-evident history of every decision.
+In [GEPA](https://github.com/gepa-ai/gepa), my fix for truncated reflection outputs ([#435](https://github.com/gepa-ai/gepa/pull/435)) became the basis of the maintainers' fix in [#462](https://github.com/gepa-ai/gepa/pull/462), which they credit to it in [#465](https://github.com/gepa-ai/gepa/pull/465).
 
-> Self-improving agents are a supply-chain risk: every skill they install is somebody else's code.
-> Narau's answer is *verification, not volume* — self-improvement you can trust.
+## Stack
 
-![Agents](https://img.shields.io/badge/AI%20Agents-self--improving%20%7C%20governed-6E56CF?style=for-the-badge)
-![Security](https://img.shields.io/badge/security-gate%20%E2%86%92%20eval%20%E2%86%92%20human-D14343?style=for-the-badge)
-![Evals](https://img.shields.io/badge/evals-ratchet%2C%20never%20regress-0A9EDC?style=for-the-badge)
-
-## 🤝 Open source
-
-Contributor to the agent tooling I work with day to day:
-
-[![basic-memory](https://img.shields.io/badge/basic--memory-contributor-6E56CF?style=for-the-badge)](https://github.com/basicmachines-co/basic-memory)
-[![GEPA](https://img.shields.io/badge/GEPA-contributor-0A9EDC?style=for-the-badge)](https://github.com/gepa-ai/gepa)
-
-## 🛠️ Tech Stack
-
-**GenAI & Agents:**
-
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-agent%20tools-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-vector%20search%20%7C%20evals-6E56CF?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-inference-3776AB?style=for-the-badge)
-
-**ML:**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-
-**Platform, Data & Cloud:**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+Python, Go, SQL, Scala. Claude and OpenAI APIs, LangGraph, MCP, RAG, vLLM, PyTorch, Hugging Face, MLflow. FastAPI, Docker, Kubernetes, AWS, Terraform, Kafka, Spark, Airflow, PostgreSQL, Redis.
